@@ -9,10 +9,10 @@ Mathematics, B.S. | University of Wyoming (_September 2019-May2022_)
 A project aimed at analyzing characteristics of NYC properties that would significantly influence the sale price. Python was used to conduct the analysis from which actionable insights were provided. 
 
 PDF of the final project: 
-[Publication]file:///C:/Users/cozze/Downloads/Capstone%20(3).pdf
+[Publication](file:///C:/Users/cozze/Downloads/Capstone%20(3).pdf)
 
 PDF of Python code:
-[Publication]file:///C:/Users/cozze/Downloads/Capstone-Copy4_%20-%20Jupyter%20Notebook.pdf
+[Publication](file:///C:/Users/cozze/Downloads/Capstone-Copy4_%20-%20Jupyter%20Notebook.pdf)
 
 
 
@@ -20,6 +20,6 @@ PDF of Python code:
 A project that used visualizations to determine relationships between the different demographic factors of patients in a hospital chain.
 
 Tableau Dashboard: 
-[Publication]https://public.tableau.com/app/profile/kira.cozzens/viz/HealthDemographics/Story
+[Publication](https://public.tableau.com/app/profile/kira.cozzens/viz/HealthDemographics/Story)
 
 
