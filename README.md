@@ -13,7 +13,7 @@ I can create complex queries using SQL and engaging dashboards using Tableau. I 
 #### Graduate Capstone Project
 A project aimed at analyzing characteristics of NYC properties that would significantly influence the sale price. Python was used to conduct the linear regression analysis from which actionable insights were provided. 
 
-See the "Capstone Report" file for a PDF of the final project
+See the "Capstone_Report" file for a PDF of the final project
 
 See the "Capstone Jupyter Notebook" file for a PDF of Python code
 
