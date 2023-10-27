@@ -1,7 +1,7 @@
 ## Data Analyst Portfolio
 
 ### Education
-Data Analytics, M.S. | Western Governors University (_September 2022-August 2023_)
+Data Analytics, M.S.|Western Governors University (_September 2022-August 2023_)
 
 
 Mathematics, B.S.|University of Wyoming (_September 2019-May2022_)
